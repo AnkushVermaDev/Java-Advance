@@ -1,0 +1,50 @@
+1. meaining , jvm ,jdk, javac bytecode
+
+2. type conversion, datatypes,
+looping
+
+
+acess specifier
+packages and access specifiers
+
+
+
+string 
+string buffer,string builder
+
+array
+arraylist
+
+
+3. oops:
+ class
+ objects
+ inheritace
+ abstraction
+ polymorism
+ anonymous class
+
+4. lamda function
+
+5.interface.
+  map
+  set
+  stream
+  generics
+	
+6. collections framework then 
+
+7. dictionary
+   serizable
+   clonable
+   hashtable
+   sorted vs comparator
+
+8. threading
+
+9. servlet
+   applet
+   jdbc
+
+
+10. DESIGN PATTERNS
