@@ -1,3 +1,5 @@
+//  T extends  Number :>> any type which are subclass of Number 
+
 class Generic<T extends  Number>{
 
     private T value1;
