@@ -797,4 +797,8 @@ Example
 == compares primitive values or object references. For objects, it checks whether two references point to the same memory location. equals() compares the logical content of objects. For example, two String objects created with new String("Java") have different references, so == returns false, but their contents are the same, so equals() returns true."
 
 
+<<<<<<< HEAD
 equals() compares objects according to its implementation. By default, the implementation inherited from Object compares references (like ==). Classes such as String, Integer, and many others override equals() to compare their contents instead."
+=======
+equals() compares objects according to its implementation. By default, the implementation inherited from Object compares references (like ==). Classes such as String, Integer, and many others override equals() to compare their contents instead."
+>>>>>>> 5958ecc (Add : LinkedHashedMap with readme)
